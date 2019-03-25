@@ -6,6 +6,7 @@ Missing files:
 
 - `Micro-Edit-1.0-MAC.zip`
 - `Micro-Edit-1.0-WIN.zip`
+- `Ming-Micro-MIDI-Implementation.pdf`
 
 I don't actually own either a Ming Mecca or a Ming Micro but figured a central place to share these files would be useful to the larger community.
 
